@@ -12,6 +12,6 @@ echo 'hello';
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Titre</h1>
 </body>
 </html>
