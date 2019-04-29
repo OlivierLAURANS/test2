@@ -14,5 +14,8 @@ echo 'hello';
 <body>
     <h1>Titre</h1>
     <span>article</span>
+    <span>jardin</span>
+    <span>bricolage</span>
+
 </body>
 </html>
