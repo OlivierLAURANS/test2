@@ -13,5 +13,6 @@ echo 'hello';
 </head>
 <body>
     <h1>Titre</h1>
+    <span>article</span>
 </body>
 </html>
