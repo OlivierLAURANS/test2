@@ -1,7 +1,3 @@
-<?php
-echo 'hello';
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +8,16 @@ echo 'hello';
     <title>Document</title>
 </head>
 <body>
+    <header>
+      <nav>
+        <div class="topnav">
+        <a href="#">Home</a>
+          <a href="#">Machin</a>
+          <a href="#">Truc</a>
+          <a href="#">Contact</a>
+        </div>
+      </nav>
+    </header>
     <h1>Titre</h1>
     <span>article</span>
 </body>
